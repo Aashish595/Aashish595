@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aashish 
-- 👀 I’m interested in Coding ,Trading and gaming.
-- 🌱 I’m currently learning programing language and web development.
-- 💞️ I’m looking to collaborate on linkedin and instagram.
+- 👀 I’m interested in Coding, Trading and gaming.
+- 🌱 I’m currently learning programming language and web development.
+- 💞️ I’m looking to collaborate on LinkedIn and Instagram.
 
 
 <!---
